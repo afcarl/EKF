@@ -49,6 +49,7 @@ coverage.xml
 .pytest_cache/
 
 *.xml
+*.iml
 
 # Translations
 *.mo
